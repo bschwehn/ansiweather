@@ -1,5 +1,10 @@
 ## Description
 
+See https://github.com/fcambus/ansiweather
+
+I only added some quick modifications to have a forecast for displaying in i3status / i3blocks.
+
+## Upstream Description
 AnsiWeather is a Shell script for displaying the current weather conditions
 in your terminal, with support for ANSI colors and Unicode symbols.
 
