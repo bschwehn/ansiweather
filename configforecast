@@ -4,15 +4,15 @@ api_key:85a4e3c55b73909f42c6a23ec35b7147
 fetch_cmd:curl -sf
 location:Würzburg,DE
 units:metric
-forecast:0
-ansi:true
+forecast:2
+ansi:false
 symbols:false
 show_uvi:true
 show_wind:true
 show_humidity:true
 show_pressure:true
 show_daylight:false
-dateformat:%a %b %d
+dateformat: %a
 timeformat:%b %d %r
 
 # Text and Colors
@@ -25,8 +25,8 @@ forecast_text:forecast
 greeting_text:Weather in
 humidity_text:Humidity
 pressure_text:Pressure
-sunrise_text:Sunrise
-sunset_text:Sunset
+sunrise_text:
+sunset_text:
 wind_directions:N NNE NE ENE E ESE SE SSE S SSW SW WSW W WNW NW NNW
 wind_text:Wind
 
